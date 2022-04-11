@@ -1,4 +1,4 @@
-How to run the program --> Run this source code using Visual Studio Code java debug console / compile the MainDriver.java
+How to run the program --> Compile the MainDriver.java
 
 Admin file -->  AdminAccountGenerateFrame
                 AdminDashboardFrame
